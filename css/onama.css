@@ -1,0 +1,29 @@
+ O NAMA
+
+ .onama-main-p a:link,
+ .onama-main-p a:visited {
+     color:#57b846 ;
+ }
+
+ .onama-main-p a:hover {
+     border: 1px solid #57b846;
+     padding: 2px;
+    
+ }
+
+ h1 {
+     text-align: center;
+     padding: 10px 0 30px 0;
+ }
+
+ .onama-main {
+     margin-bottom: 30px;
+ }
+
+ .container-onama {
+     padding: 10px;
+ }
+ .sidebar-onama > video {
+     width: 100%
+ }
+ 
